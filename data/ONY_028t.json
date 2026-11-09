@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ONY_028t","dbfId":71255,"name":"미다의 파편","type":"SPELL","cardClass":"PRIEST","collectible":false,"cost":6,"text":"<b>뽑을 때 시전</b>\n순수한 빛 미다를 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"HOLY","portrait":"HS24-205_S.tif:a0746a0d6fb64352a47839dc6faa327f","set":"ALTERAC_VALLEY","nativeTags":[{"id":2,"name":"효과 수치 1","value":1},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":1077,"name":"뽑을 때 시전","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/ONY_028t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-205_S.tif:a0746a0d6fb64352a47839dc6faa327f","goldenMaterial":"ONY_028t_PremiumCard.mat:fb6b5e7ba099b2a41a9fb47bdfad4b8e","goldenAnimation":"ONY_028t_PremiumCard.asset:5e435263dec253d4c863006ec0d15003"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Fragment of Mi'da",
+  "card": {
+    "id": "ONY_028t",
+    "dbfId": 71255,
+    "name": "미다의 파편",
+    "text": "<b>뽑을 때 시전</b>\n순수한 빛 미다를 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 6,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-205_S.tif:a0746a0d6fb64352a47839dc6faa327f",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 2,
+        "name": "효과 수치 1",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 1077,
+        "name": "뽑을 때 시전",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "nativeRawText": "<b>뽑을 때 시전</b>\n순수한 빛 미다를 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-02-16",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_258pt","dbfId":70519,"name":"대지 기원","type":"HERO_POWER","cardClass":"SHAMAN","collectible":false,"cost":2,"text":"<b>도발</b> 능력이 있는 2/3\n정령을 둘 소환합니다.\n매 턴마다 바뀝니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS24-143_HP.tif:e7067972d5f14fb19a3d7683cfca39a6","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":10}],"races":[],"race":"","classes":[],"art":"art/AV_258pt.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-143_HP.tif:e7067972d5f14fb19a3d7683cfca39a6","goldenMaterial":"AV_258pt_PremiumCard.mat:96bc9bed448636f46badd21c5327cb39","goldenAnimation":"AV_258pt_PremiumCard.asset:7d6fc18e0afdeea49b5ccdccd1d47bcc"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Earth Invocation",
+  "card": {
+    "id": "AV_258pt",
+    "dbfId": 70519,
+    "name": "대지 기원",
+    "text": "<b>도발</b> 능력이 있는 2/3\n정령을 둘 소환합니다.\n매 턴마다 바뀝니다.",
+    "type": "HERO_POWER",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-143_HP.tif:e7067972d5f14fb19a3d7683cfca39a6",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      }
+    ],
+    "nativeRawText": "[x]<b>도발</b> 능력이 있는 2/3\n정령을 둘 소환합니다.\n매 턴마다 바뀝니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

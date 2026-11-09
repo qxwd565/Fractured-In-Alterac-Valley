@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_203t","dbfId":66941,"name":"그림자","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":3,"text":"<b>은신</b>","attack":4,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS24-152_M.tif:1cc975a542e248649a6b6847ed983c05","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":191,"name":"은신","value":1},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":4}],"races":[],"race":"","classes":[],"art":"art/AV_203t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-152_M.tif:1cc975a542e248649a6b6847ed983c05","goldenMaterial":"AV_203t_PremiumCard.mat:327e21e806fc8cb48809ccd617bac42c","goldenAnimation":"AV_203t_PremiumCard.asset:38b0ed0204b166d4bae7e8305d90fb35"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Shadow",
+  "card": {
+    "id": "AV_203t",
+    "dbfId": 66941,
+    "name": "그림자",
+    "text": "<b>은신</b>",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 4,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-152_M.tif:1cc975a542e248649a6b6847ed983c05",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 191,
+        "name": "은신",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "<b>은신</b>",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

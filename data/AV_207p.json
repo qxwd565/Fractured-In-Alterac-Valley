@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_207p","dbfId":67049,"name":"성스러운 손길","type":"HERO_POWER","cardClass":"PRIEST","collectible":false,"cost":2,"text":"생명력을 #5 회복시킵니다.\n매 턴마다 능력을 뒤집습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS24-157_HP.tif:98791866df964a6fa3a675e033133ed2","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":10}],"races":[],"race":"","classes":[],"art":"art/AV_207p.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-157_HP.tif:98791866df964a6fa3a675e033133ed2","goldenMaterial":"AV_207p_PremiumCard.mat:679ea7ee506dead419ac46022b783ec5","goldenAnimation":"AV_207p_PremiumCard.asset:ed484e68bfa1fd64e8dc6565a4988c4f"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Holy Touch",
+  "card": {
+    "id": "AV_207p",
+    "dbfId": 67049,
+    "name": "성스러운 손길",
+    "text": "생명력을 #5 회복시킵니다.\n매 턴마다 능력을 뒤집습니다.",
+    "type": "HERO_POWER",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-157_HP.tif:98791866df964a6fa3a675e033133ed2",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      }
+    ],
+    "nativeRawText": "생명력을 #5 회복시킵니다.\n매 턴마다 능력을 뒤집습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,1 +1,93 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_134","dbfId":70238,"name":"서리늑대 전투대장","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":4,"text":"이번 턴에 내가 낸 카드 하나당 비용이 (1)씩 감소합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"\"전리품은 거저 얻을 수 없지... 물론 나에게는 해당하지 않는 말이지만!\"","spellSchool":"","portrait":"HS24-090_M.tif:1a184c6c373340bf92fee0f2b535d8a3","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_134.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-090_M.tif:1a184c6c373340bf92fee0f2b535d8a3","goldenMaterial":"AV_134_PremiumCard.mat:6cb686bc318c2e048bd06c3d8350c149","goldenAnimation":"AV_134_PremiumCard.asset:a31b5ff81b9508243b7ca7e11bdadda1"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Frostwolf Warmaster",
+  "card": {
+    "id": "AV_134",
+    "dbfId": 70238,
+    "name": "서리늑대 전투대장",
+    "text": "이번 턴에 내가 낸 카드 하나당 비용이 (1)씩 감소합니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-090_M.tif:1a184c6c373340bf92fee0f2b535d8a3",
+    "flavor": "\"전리품은 거저 얻을 수 없지... 물론 나에게는 해당하지 않는 말이지만!\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "이번 턴에 내가 낸 카드 하나당 비용이 (1)씩 감소합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

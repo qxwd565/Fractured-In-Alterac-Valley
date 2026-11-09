@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_293t","dbfId":71263,"name":"공습 와이번","type":"MINION","cardClass":"DRUID","collectible":false,"cost":2,"text":"<b>속공</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS24-067_M.tif:e0d2f7dc348d40c5be5edd8ff900333e","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/AV_293t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-067_M.tif:e0d2f7dc348d40c5be5edd8ff900333e","goldenMaterial":"AV_293t_PremiumCard.mat:413cac51f6dbf6a419ddbb8ce6a5306c","goldenAnimation":"AV_293t_PremiumCard.asset:d2285ff7b4d3ac24f9d00436665c6a0d"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Strike Wyvern",
+  "card": {
+    "id": "AV_293t",
+    "dbfId": 71263,
+    "name": "공습 와이번",
+    "text": "<b>속공</b>",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "야수",
+    "races": [
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 2,
+    "health": 2,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-067_M.tif:e0d2f7dc348d40c5be5edd8ff900333e",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>속공</b>",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

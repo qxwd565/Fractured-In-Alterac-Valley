@@ -1,1 +1,83 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_283","dbfId":70011,"name":"대마법사의 룬","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":9,"text":"적들에게 마나의 합이 20인 마법사 주문들을 시전합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"이건 슬롯머신이 아냐! 이걸 만들기 위해 현실의 가닥을 밝혀내고자 수 년동안 혼신을 다 해 복잡한 우주를 파헤쳤지. 어지간한 수재들조차 비전 마력만으로도 벅차한다고. 이 모든 걸 고려한 정당한 평가를 하자면, 이건 <i>마법</i> 슬롯머신이야.\"","spellSchool":"","portrait":"HS24-121_S.tif:c10dde72b739460b932c1cb23aa8e2d8","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":9},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_283.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-121_S.tif:c10dde72b739460b932c1cb23aa8e2d8","goldenMaterial":"AV_283_PremiumCard.mat:ebaa07a0e0f14f14db6647e113c0fa0c","goldenAnimation":"AV_283_PremiumCard.asset:cf9cec2540e71c74996cb4af24c37b1e"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Rune of the Archmage",
+  "card": {
+    "id": "AV_283",
+    "dbfId": 70011,
+    "name": "대마법사의 룬",
+    "text": "적들에게 마나의 합이 20인 마법사 주문들을 시전합니다.",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 9,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-121_S.tif:c10dde72b739460b932c1cb23aa8e2d8",
+    "flavor": "\"이건 슬롯머신이 아냐! 이걸 만들기 위해 현실의 가닥을 밝혀내고자 수 년동안 혼신을 다 해 복잡한 우주를 파헤쳤지. 어지간한 수재들조차 비전 마력만으로도 벅차한다고. 이 모든 걸 고려한 정당한 평가를 하자면, 이건 <i>마법</i> 슬롯머신이야.\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 9
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "적들에게 마나의 합이 20인 마법사 주문들을 시전합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_400","dbfId":70396,"name":"눈사태 무덤","type":"SPELL","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":5,"text":"내 <b>죽음의 메아리</b> 능력이 2번 발동합니다. 3턴 동안 지속됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"빠르게 부활하고 빠르게 다시 죽을 수 있습니다.","spellSchool":"","portrait":"HS24-106_S.tif:fe9e7fe168b440ab95d62b5c9420a33d","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":2311,"name":"목표","value":1},{"id":2329,"name":"목표 지속 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_400.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-106_S.tif:fe9e7fe168b440ab95d62b5c9420a33d","goldenMaterial":"AV_400_PremiumCard.mat:191fa4bff9b306f428146bbbbaae0811","goldenAnimation":"AV_400_PremiumCard.asset:b67b749ff767ac94a9fbb778ce851d16"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Snowfall Graveyard",
+  "card": {
+    "id": "AV_400",
+    "dbfId": 70396,
+    "name": "눈사태 무덤",
+    "text": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다. 3턴 동안 지속됩니다.",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 5,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-106_S.tif:fe9e7fe168b440ab95d62b5c9420a33d",
+    "flavor": "빠르게 부활하고 빠르게 다시 죽을 수 있습니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      },
+      {
+        "id": 2329,
+        "name": "목표 지속 효과",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 <b>죽음의 메아리</b> 능력이 2번 발동합니다. 3턴 동안 지속됩니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

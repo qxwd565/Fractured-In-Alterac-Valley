@@ -1,1 +1,98 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_657t","dbfId":72441,"name":"더럽혀진 망령","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":4,"text":"","attack":4,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS24-022_M.tif:6834de5a9d4a48a284fd06212e7dff35","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/AV_657t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-022_M.tif:6834de5a9d4a48a284fd06212e7dff35","goldenMaterial":"AV_657t_PremiumCard.mat:34d22efa163013943b9bfe0595ed35f9","goldenAnimation":"AV_657t_PremiumCard.asset:d122fbd3b5e022c4f952d8a193227af0"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Desecrated Shade",
+  "card": {
+    "id": "AV_657t",
+    "dbfId": 72441,
+    "name": "더럽혀진 망령",
+    "text": "",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "언데드",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 4,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-022_M.tif:6834de5a9d4a48a284fd06212e7dff35",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [
+      {
+        "date": "2022-11-30",
+        "changes": {
+          "races": [
+            "UNDEAD"
+          ]
+        }
+      }
+    ],
+    "initialSpecStatus": "unverified",
+    "patchSources": {
+      "2022-11-30": "taxonomy introduction"
+    }
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

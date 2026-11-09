@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_308","dbfId":67826,"name":"무덤 파멸자","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 내 손에 있는 지옥 주문을 선택합니다. 그 주문을 복사하여 얻습니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"너저분한 수납장 안에서도 지옥 주문들만은 가지런히 정리되어 있습니다.","spellSchool":"","portrait":"HS24-016_M.tif:14889b1dd6cf495eb9e3820c45b0d112","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1508,"name":"손의 카드 대상 지정","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_308.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-016_M.tif:14889b1dd6cf495eb9e3820c45b0d112","goldenMaterial":"AV_308_PremiumCard.mat:5658750a8af90914799fa0530fb175f1","goldenAnimation":"AV_308_PremiumCard.asset:e983036fa834c62499468a6d51219fbc"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Grave Defiler",
+  "card": {
+    "id": "AV_308",
+    "dbfId": 67826,
+    "name": "무덤 파멸자",
+    "text": "<b>전투의 함성:</b> 내 손에 있는 지옥 주문을 선택합니다. 그 주문을 복사하여 얻습니다.",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 1,
+    "attack": 2,
+    "health": 1,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-016_M.tif:14889b1dd6cf495eb9e3820c45b0d112",
+    "flavor": "너저분한 수납장 안에서도 지옥 주문들만은 가지런히 정리되어 있습니다.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1508,
+        "name": "손의 카드 대상 지정",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 내 손에 있는 지옥 주문을 선택합니다. 그 주문을 복사하여 얻습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

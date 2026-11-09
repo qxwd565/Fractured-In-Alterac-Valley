@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "timezone": "Asia/Seoul",
+  "default": {
+    "date": "2021-12-08",
+    "status": "verified"
+  },
+  "prefixes": {
+    "ONY_": {
+      "date": "2022-02-16",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "AV_100": {
+      "date": "2021-11-17",
+      "status": "verified"
+    },
+    "AV_223": {
+      "date": "2021-11-17",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "main": "https://hearthstone.blizzard.com/ko-kr/expansions-adventures/fractured-in-alterac-valley",
+    "mini": "https://hearthstone.blizzard.com/ko-kr/news/23761712"
+  }
+}

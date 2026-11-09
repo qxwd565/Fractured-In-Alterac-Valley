@@ -1,1 +1,93 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_290","dbfId":70204,"name":"얼음피 보초탑","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":10,"text":"내 턴이 끝날 때, 내 덱에 있는\n다른 주문을 시전합니다.\n3턴 동안 지속됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"왜 이름이 얼음피 보초탑인가요?\" \"나도 잘 몰라. 어쨌든, 발밑의 얼어붙은 시체들 밟지 않게 조심하라고.\"","spellSchool":"","portrait":"HS24-102_S.tif:67f6f153b7fd4b2ead77aac0cf6e0c1e","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":10},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":2311,"name":"목표","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_290.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-102_S.tif:67f6f153b7fd4b2ead77aac0cf6e0c1e","goldenMaterial":"AV_290_PremiumCard.mat:53c5497979af3af4badd2d4446dda5b0","goldenAnimation":"AV_290_PremiumCard.asset:0044bcafe2c4f5345b3914a8bf8d896d"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Iceblood Tower",
+  "card": {
+    "id": "AV_290",
+    "dbfId": 70204,
+    "name": "얼음피 보초탑",
+    "text": "내 턴이 끝날 때, 내 덱에 있는\n다른 주문을 시전합니다.\n3턴 동안 지속됩니다.",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 10,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-102_S.tif:67f6f153b7fd4b2ead77aac0cf6e0c1e",
+    "flavor": "\"왜 이름이 얼음피 보초탑인가요?\" \"나도 잘 몰라. 어쨌든, 발밑의 얼어붙은 시체들 밟지 않게 조심하라고.\"",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]내 턴이 끝날 때, 내 덱에 있는\n다른 주문을 시전합니다.\n3턴 동안 지속됩니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

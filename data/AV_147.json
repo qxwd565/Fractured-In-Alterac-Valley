@@ -1,1 +1,98 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_147","dbfId":71321,"name":"던 발다르 참호","type":"SPELL","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":2,"text":"내 턴이 끝날 때, <b>비밀</b>을 뽑습니다. 그 비밀의 비용이 (1)이 됩니다.\n3턴 동안 지속됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"참혹한 전장에 어울리는 참혹한 디자인입니다.","spellSchool":"","portrait":"HS24-101_S.tif:2abcd44b36784917b35739e5b223635b","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1},{"id":535,"name":"퀘스트 완료 조건","value":3},{"id":2311,"name":"목표","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_147.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-101_S.tif:2abcd44b36784917b35739e5b223635b","goldenMaterial":"AV_147_PremiumCard.mat:4e77be0e07383d044baf99438915bc2d","goldenAnimation":"AV_147_PremiumCard.asset:6b9060ee910dada45917cc88e7849333"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Dun Baldar Bunker",
+  "card": {
+    "id": "AV_147",
+    "dbfId": 71321,
+    "name": "던 발다르 참호",
+    "text": "내 턴이 끝날 때, <b>비밀</b>을 뽑습니다. 그 비밀의 비용이 (1)이 됩니다.\n3턴 동안 지속됩니다.",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 2,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-101_S.tif:2abcd44b36784917b35739e5b223635b",
+    "flavor": "참혹한 전장에 어울리는 참혹한 디자인입니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 535,
+        "name": "퀘스트 완료 조건",
+        "value": 3
+      },
+      {
+        "id": 2311,
+        "name": "목표",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내 턴이 끝날 때, <b>비밀</b>을 뽑습니다. 그 비밀의 비용이 (1)이 됩니다.\n3턴 동안 지속됩니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

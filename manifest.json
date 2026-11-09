@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "set": "Fractured In Alterac Valley",
+  "repository": "qxwd565/Fractured-In-Alterac-Valley",
+  "sourceRecords": 265,
+  "sourceVariants": 0,
+  "totalSourceJSON": 265,
+  "collectible": 170,
+  "uncollectible": 95,
+  "pendingReleaseIds": [],
+  "patchVerifiedIds": [
+    "AV_200",
+    "AV_255"
+  ],
+  "patchVerifiedCardCount": 2,
+  "patchEvents": 2,
+  "excludedDifferentNativeSet": [],
+  "historicalAccuracy": "Historical initial snapshots are provisional, except fields directly reconstructed from cited patches; no exhaustive patch verification claimed",
+  "existingArtworkAndGoldenPreserved": true,
+  "committedPatchEvents": 14,
+  "skippedUnconfirmedFields": 12
+}

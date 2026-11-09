@@ -1,1 +1,83 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_292","dbfId":70249,"name":"야생의 정수","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":3,"text":"하수인에게 +2/+2를 부여한 후에, 내 야수들에게 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"우리 모두 가슴 속에 야성이 뛰고 있습니다. 포세이큰만 빼고요.","spellSchool":"","portrait":"HS24-174_S.tif:d8083d6d3b314aa292cd3bc83cb11c32","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_292.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-174_S.tif:d8083d6d3b314aa292cd3bc83cb11c32","goldenMaterial":"AV_292_PremiumCard.mat:d6b06d27838cd1b45bb143b8307ca4b6","goldenAnimation":"AV_292_PremiumCard.asset:6a450dc545f0a8a4ab08e0fd7e44ada5"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Heart of the Wild",
+  "card": {
+    "id": "AV_292",
+    "dbfId": 70249,
+    "name": "야생의 정수",
+    "text": "하수인에게 +2/+2를 부여한 후에, 내 야수들에게 +1/+1을 부여합니다.",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-174_S.tif:d8083d6d3b314aa292cd3bc83cb11c32",
+    "flavor": "우리 모두 가슴 속에 야성이 뛰고 있습니다. 포세이큰만 빼고요.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "하수인에게 +2/+2를 부여한 후에, 내 야수들에게 +1/+1을 부여합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

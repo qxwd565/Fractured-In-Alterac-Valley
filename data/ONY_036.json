@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ONY_036","dbfId":68262,"name":"칼날검 파수병","type":"MINION","cardClass":"DEMONHUNTER","rarity":"COMMON","collectible":true,"cost":4,"text":"내가 내 손에서 가장 오른쪽\n또는 왼쪽에 있는 카드를\n낸 후에, 카드를 뽑습니다.","attack":5,"health":4,"durability":0,"armor":0,"flavor":"모든 것을 갖춘 늑대인간을 위한 더 많은 발톱입니다.","spellSchool":"","portrait":"HS24-191_M.tif:4776a877009241009f655f834a28c457","set":"ALTERAC_VALLEY","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1}],"races":[],"race":"","classes":[],"art":"art/ONY_036.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-191_M.tif:4776a877009241009f655f834a28c457","goldenMaterial":"ONY_036_PremiumCard.mat:eb6790b688571dd409a71776be021981","goldenAnimation":"ONY_036_PremiumCard.asset:763310863d9eca745a389bc68d68757b"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Razorglaive Sentinel",
+  "card": {
+    "id": "ONY_036",
+    "dbfId": 68262,
+    "name": "칼날검 파수병",
+    "text": "내가 내 손에서 가장 오른쪽\n또는 왼쪽에 있는 카드를\n낸 후에, 카드를 뽑습니다.",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 5,
+    "health": 4,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-191_M.tif:4776a877009241009f655f834a28c457",
+    "flavor": "모든 것을 갖춘 늑대인간을 위한 더 많은 발톱입니다.",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "[x]내가 내 손에서 가장 오른쪽\n또는 왼쪽에 있는 카드를\n낸 후에, 카드를 뽑습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2022-02-16",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

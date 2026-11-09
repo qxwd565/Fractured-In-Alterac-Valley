@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_146","dbfId":70495,"name":"불굴의 방패","type":"WEAPON","cardClass":"PALADIN","collectible":false,"cost":7,"text":"내구도를 잃지 않습니다. 내 영웅이 받는 피해는 절반(올림)으로 감소합니다.","attack":2,"health":0,"durability":5,"armor":0,"flavor":"","spellSchool":"","portrait":"HS24-057_W.tif:25c02d58ce3341789a301edfd99c5e34","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":7}],"races":[],"race":"","classes":[],"art":"art/AV_146.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-057_W.tif:25c02d58ce3341789a301edfd99c5e34","goldenMaterial":"AV_146_PremiumCard.mat:bc057d8b3abbf084b99f998d0deb41d0","goldenAnimation":"AV_146_PremiumCard.asset:632c1cc6a29e90243a2861f770ef5e51"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "The Immovable Object",
+  "card": {
+    "id": "AV_146",
+    "dbfId": 70495,
+    "name": "불굴의 방패",
+    "text": "내구도를 잃지 않습니다. 내 영웅이 받는 피해는 절반(올림)으로 감소합니다.",
+    "type": "WEAPON",
+    "cardClass": "PALADIN",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 7,
+    "attack": 2,
+    "health": 0,
+    "armor": 0,
+    "durability": 5,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-057_W.tif:25c02d58ce3341789a301edfd99c5e34",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      }
+    ],
+    "nativeRawText": "내구도를 잃지 않습니다. 내 영웅이 받는 피해는 절반(올림)으로 감소합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

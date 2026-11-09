@@ -1,1 +1,93 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_315","dbfId":67759,"name":"해방","type":"SPELL","cardClass":"PRIEST","rarity":"COMMON","collectible":true,"cost":3,"text":"하수인에게 피해를 $3 줍니다.\n<b>명예로운 일격:</b> 그 하수인을 새로 복사하여 3/3 하수인으로 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"30분 안에 못하면 환불해 드립니다.","spellSchool":"HOLY","portrait":"HS24-043_S.tif:9b68bb66cd1d491abcdfdd8e0764cb4b","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5},{"id":1920,"name":"명예로운 일격","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_315.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-043_S.tif:9b68bb66cd1d491abcdfdd8e0764cb4b","goldenMaterial":"AV_315_PremiumCard.mat:bc9b5941e32dddd44824e44ec8de1629","goldenAnimation":"AV_315_PremiumCard.asset:963675bff1a3418439943edc2c795ece"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Deliverance",
+  "card": {
+    "id": "AV_315",
+    "dbfId": 67759,
+    "name": "해방",
+    "text": "하수인에게 피해를 $3 줍니다.\n<b>명예로운 일격:</b> 그 하수인을 새로 복사하여 3/3 하수인으로 소환합니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "COMMON",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 3,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-043_S.tif:9b68bb66cd1d491abcdfdd8e0764cb4b",
+    "flavor": "30분 안에 못하면 환불해 드립니다.",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      },
+      {
+        "id": 1920,
+        "name": "명예로운 일격",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "하수인에게 피해를 $3 줍니다.\n<b>명예로운 일격:</b> 그 하수인을 새로 복사하여 3/3 하수인으로 소환합니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

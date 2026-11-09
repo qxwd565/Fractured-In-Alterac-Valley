@@ -1,1 +1,105 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_128","dbfId":70228,"name":"얼어붙은 매머드","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":4,"text":"내가 화염 주문을\n시전할 때까지\n<b>빙결</b> 상태가 됩니다.","attack":6,"health":7,"durability":0,"armor":0,"flavor":"<i><b>*레코드 긁는 소리*</b></i> \"그러니까, 제가 이렇게 된 사정이 말이죠.\"","spellSchool":"","portrait":"HS24-176_M.tif:109f6d98cad84e6991275cc4d76b2e6f","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":260,"name":"빙결 상태","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/AV_128.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-176_M.tif:109f6d98cad84e6991275cc4d76b2e6f","goldenMaterial":"AV_128_PremiumCard.mat:4ea58666ac2837240977bb16f965eafd","goldenAnimation":"AV_128_PremiumCard.asset:829c96766a776d145a19a6f71f71e8b4"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Frozen Mammoth",
+  "card": {
+    "id": "AV_128",
+    "dbfId": 70228,
+    "name": "얼어붙은 매머드",
+    "text": "내가 화염 주문을\n시전할 때까지\n<b>빙결</b> 상태가 됩니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "EPIC",
+    "race": "야수",
+    "races": [
+      "BEAST"
+    ],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 6,
+    "health": 7,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-176_M.tif:109f6d98cad84e6991275cc4d76b2e6f",
+    "flavor": "<i><b>*레코드 긁는 소리*</b></i> \"그러니까, 제가 이렇게 된 사정이 말이죠.\"",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 260,
+        "name": "빙결 상태",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "내가 화염 주문을\n시전할 때까지\n<b>빙결</b> 상태가 됩니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

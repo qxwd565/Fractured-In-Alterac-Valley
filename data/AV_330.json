@@ -1,1 +1,88 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_330","dbfId":70026,"name":"나루의 선물","type":"SPELL","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":1,"text":"모든 캐릭터의 생명력을 #3 회복시킵니다. 그래도 피해를 받은 캐릭터가 있다면, 카드를 뽑습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"선물을 받았으니 헌금이라도 내란 말이야!","spellSchool":"HOLY","portrait":"HS24-156_S.tif:77ad7a275d704187a102fbfbcc3ef719","set":"ALTERAC_VALLEY","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/AV_330.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-156_S.tif:77ad7a275d704187a102fbfbcc3ef719","goldenMaterial":"AV_330_PremiumCard.mat:ac25070042217e441bee2a23eee9707f","goldenAnimation":"AV_330_PremiumCard.asset:3c7c90ea5a27d7e4185dd6c249123df9"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Gift of the Naaru",
+  "card": {
+    "id": "AV_330",
+    "dbfId": 70026,
+    "name": "나루의 선물",
+    "text": "모든 캐릭터의 생명력을 #3 회복시킵니다. 그래도 피해를 받은 캐릭터가 있다면, 카드를 뽑습니다.",
+    "type": "SPELL",
+    "cardClass": "PRIEST",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "EPIC",
+    "race": "",
+    "races": [],
+    "spellSchool": "HOLY",
+    "cost": 1,
+    "attack": 0,
+    "health": 0,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-156_S.tif:77ad7a275d704187a102fbfbcc3ef719",
+    "flavor": "선물을 받았으니 헌금이라도 내란 말이야!",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "nativeRawText": "모든 캐릭터의 생명력을 #3 회복시킵니다. 그래도 피해를 받은 캐릭터가 있다면, 카드를 뽑습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

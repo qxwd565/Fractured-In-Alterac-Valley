@@ -1,1 +1,103 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_262","dbfId":67887,"name":"사슬의 감시관","type":"MINION","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":4,"text":"<b>도발</b>, <b>전투의 함성:</b>\n내 손에 비용이 (5) 이상인 악마가 있으면, +1/+2를 얻습니다.","attack":2,"health":6,"durability":0,"armor":0,"flavor":"시간이 너무 늦었네. 이제 집으로 돌아가 악마들이 사슬에 잘 묶여있나 확인해야겠어.","spellSchool":"","portrait":"HS24-131_M.tif:03ae138d74b1452dbb0e9d600dd9cb7d","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/AV_262.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-131_M.tif:03ae138d74b1452dbb0e9d600dd9cb7d","goldenMaterial":"AV_262_PremiumCard.mat:6e0312cf5b42b8e4089acc7ef23752fb","goldenAnimation":"AV_262_PremiumCard.asset:76dc1663a38902b40bdfff1faace47f7"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Warden of Chains",
+  "card": {
+    "id": "AV_262",
+    "dbfId": 67887,
+    "name": "사슬의 감시관",
+    "text": "<b>도발</b>, <b>전투의 함성:</b>\n내 손에 비용이 (5) 이상인 악마가 있으면, +1/+2를 얻습니다.",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "RARE",
+    "race": "",
+    "races": [],
+    "spellSchool": "",
+    "cost": 4,
+    "attack": 2,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-131_M.tif:03ae138d74b1452dbb0e9d600dd9cb7d",
+    "flavor": "시간이 너무 늦었네. 이제 집으로 돌아가 악마들이 사슬에 잘 묶여있나 확인해야겠어.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>도발</b>, <b>전투의 함성:</b>\n내 손에 비용이 (5) 이상인 악마가 있으면, +1/+2를 얻습니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

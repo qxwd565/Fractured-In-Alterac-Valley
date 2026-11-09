@@ -1,1 +1,121 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_255","dbfId":67769,"name":"눈사태 수호자","type":"MINION","cardClass":"SHAMAN","rarity":"COMMON","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 다른 <b>모든</b> 하수인을 <b>빙결</b> 상태로 만듭니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"마침내 깨어났군! 꽤나 아프게 부딪힌 것 같던데. 악마사냥꾼? 용병? 그게 다 무슨 얘기인가? 됐고, 내가 방금 황금 무라비를 뽑았으니, 우리 빙결 주술사 덱이나 만들자고.","spellSchool":"","portrait":"HS24-030_M.tif:0c0e919c4f0d43e8a7e814bf641103df","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":8},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":208,"name":"빙결","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/AV_255.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-030_M.tif:0c0e919c4f0d43e8a7e814bf641103df","goldenMaterial":"AV_255_PremiumCard.mat:1b461dfaf2141a9449e4e9b5d0022cf7","goldenAnimation":"AV_255_PremiumCard.asset:f429daacf52ff2f479fb244adf662612"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Snowfall Guardian",
+  "card": {
+    "id": "AV_255",
+    "dbfId": 67769,
+    "name": "눈사태 수호자",
+    "text": "<b>전투의 함성:</b> 다른 <b>모든</b> 하수인을 <b>빙결</b> 상태로 만듭니다. 빙결 상태인 하수인 하나당 +1/+1을 얻습니다.",
+    "type": "MINION",
+    "cardClass": "SHAMAN",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "COMMON",
+    "race": "정령",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 3,
+    "health": 3,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-030_M.tif:0c0e919c4f0d43e8a7e814bf641103df",
+    "flavor": "마침내 깨어났군! 꽤나 아프게 부딪힌 것 같던데. 악마사냥꾼? 용병? 그게 다 무슨 얘기인가? 됐고, 내가 방금 황금 무라비를 뽑았으니, 우리 빙결 주술사 덱이나 만들자고.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 다른 <b>모든</b> 하수인을 <b>빙결</b> 상태로 만듭니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [
+      {
+        "date": "2022-08-17",
+        "changes": {
+          "attack": 5,
+          "health": 5,
+          "text": "<b>전투의 함성:</b> 다른 <b>모든</b> 하수인을 <b>빙결</b> 상태로 만듭니다."
+        }
+      }
+    ],
+    "initialSpecStatus": "partially_verified",
+    "patchSources": {
+      "2022-08-17": "https://hearthstone.blizzard.com/ko-kr/news/23840665/24-0-3"
+    }
+  },
+  "root": true,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

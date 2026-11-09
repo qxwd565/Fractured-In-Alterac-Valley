@@ -1,1 +1,159 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ONY_005","dbfId":71684,"name":"카자쿠산","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":8,"text":"<b>전투의 함성:</b> 이번 게임에서 내가 다른 용족을 넷 냈다면 원하는 보물 더미 덱을 직접 만듭니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"카자쿠스는 정말 영악해 자신에게 해가 되지 않을 물약만 제조했습니다. 그러니 용숨결 물약을 처음 제조한 자가 용족이었다는 사실도 놀랍지 않죠.","spellSchool":"","portrait":"HS24-222_M.tif:18291915e3a7476c9c170fcb1d3d9be9","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":8},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":24},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1824,"name":"미니 세트","value":1},{"id":2459,"name":"대상 조건 태그 ID","value":2},{"id":2460,"name":"대상 조건 수치","value":4}],"races":["DRAGON"],"race":"용족","classes":[],"art":"art/ONY_005.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-222_M.tif:18291915e3a7476c9c170fcb1d3d9be9","goldenMaterial":"ONY_005_PremiumCard.mat:e2d9fe545a5ce074a9aa553f37be2b75","goldenAnimation":"ONY_005_PremiumCard.asset:7793deba2f2e2da42b91eff67d1221ff"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Kazakusan",
+  "card": {
+    "id": "ONY_005",
+    "dbfId": 71684,
+    "name": "카자쿠산",
+    "text": "<b>전투의 함성:</b> 이번 게임에서 내가 다른 용족을 넷 냈다면 원하는 보물 더미 덱을 직접 만듭니다.",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "rarity": "LEGENDARY",
+    "race": "용족",
+    "races": [
+      "DRAGON"
+    ],
+    "spellSchool": "",
+    "cost": 8,
+    "attack": 8,
+    "health": 8,
+    "armor": 0,
+    "durability": 0,
+    "collectible": true,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-222_M.tif:18291915e3a7476c9c170fcb1d3d9be9",
+    "flavor": "카자쿠스는 정말 영악해 자신에게 해가 되지 않을 물약만 제조했습니다. 그러니 용숨결 물약을 처음 제조한 자가 용족이었다는 사실도 놀랍지 않죠.",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 8
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 24
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1824,
+        "name": "미니 세트",
+        "value": 1
+      },
+      {
+        "id": 2459,
+        "name": "대상 조건 태그 ID",
+        "value": 2
+      },
+      {
+        "id": 2460,
+        "name": "대상 조건 수치",
+        "value": 4
+      }
+    ],
+    "nativeRawText": "<b>전투의 함성:</b> 이번 게임에서 내가 다른 용족을 넷 냈다면 원하는 보물 더미 덱을 직접 만듭니다.@ <i>({0} 남음!)</i>@ <i>(달성!)</i>",
+    "nativeTextBuilder": 11,
+    "releasedAt": "2022-02-16",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": true,
+  "relatedIds": [
+    82089,
+    82090,
+    75801,
+    75794,
+    75791,
+    75790,
+    75854,
+    75824,
+    75802,
+    75798,
+    75853,
+    75806,
+    75799,
+    75804,
+    81895,
+    75830,
+    75826,
+    75829,
+    75827,
+    75796,
+    75816,
+    75795,
+    75822,
+    75821,
+    75833,
+    75797,
+    75831,
+    75832,
+    75835,
+    80534,
+    81861,
+    82091,
+    229
+  ],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}

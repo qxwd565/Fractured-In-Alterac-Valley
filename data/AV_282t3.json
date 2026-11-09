@@ -1,1 +1,94 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"AV_282t3","dbfId":70008,"name":"눈싸움꾼","type":"MINION","cardClass":"MAGE","collectible":false,"cost":6,"text":"이 하수인에게 피해를 받은 캐릭터는 <b>빙결</b> 상태가 됩니다.","attack":6,"health":6,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS24-118_M.tif:0881f632e35d4e65a569f7b39bef1789","set":"ALTERAC_VALLEY","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":6},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":4},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":208,"name":"빙결","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/AV_282t3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS24-118_M.tif:0881f632e35d4e65a569f7b39bef1789","goldenMaterial":"AV_282t3_PremiumCard.mat:78ec35568a08aaa41b8d8c3f044d84a9","goldenAnimation":"AV_282t3_PremiumCard.asset:9c10c97cdf605244191fe33ae0f940d7"}}
+{
+  "schemaVersion": 1,
+  "mode": "constructed",
+  "englishName": "Snowbrute",
+  "card": {
+    "id": "AV_282t3",
+    "dbfId": 70008,
+    "name": "눈싸움꾼",
+    "text": "이 하수인에게 피해를 받은 캐릭터는 <b>빙결</b> 상태가 됩니다.",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "classes": [],
+    "nativeSetId": 1626,
+    "set": "ALTERAC_VALLEY",
+    "race": "정령",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "spellSchool": "",
+    "cost": 6,
+    "attack": 6,
+    "health": 6,
+    "armor": 0,
+    "durability": 0,
+    "collectible": false,
+    "chooseOne": false,
+    "installed": true,
+    "portrait": "HS24-118_M.tif:0881f632e35d4e65a569f7b39bef1789",
+    "flavor": "",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 6
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 208,
+        "name": "빙결",
+        "value": 1
+      }
+    ],
+    "nativeRawText": "이 하수인에게 피해를 받은 캐릭터는 <b>빙결</b> 상태가 됩니다.",
+    "nativeTextBuilder": 0,
+    "releasedAt": "2021-12-08",
+    "releaseStatus": "verified",
+    "patches": [],
+    "initialSpecStatus": "unverified",
+    "patchSources": {}
+  },
+  "root": false,
+  "relatedIds": [],
+  "expansion": {
+    "id": 1626,
+    "slug": "fractured-in-alterac-valley",
+    "name": "알터랙 계곡",
+    "type": "expansion",
+    "englishName": "Fractured In Alterac Valley"
+  },
+  "setOrder": 18,
+  "formats": [
+    "wild"
+  ],
+  "provenance": {
+    "source": "Installed Hearthstone dbf.unity3d",
+    "gameVersion": "6000.3.11.3145967",
+    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
+    "locale": "koKR"
+  }
+}
