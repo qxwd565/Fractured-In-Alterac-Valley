@@ -3,7 +3,7 @@
     "id": "AV_255",
     "dbfId": 67769,
     "name": "눈사태 수호자",
-    "text": "<b>전투의 함성:</b> 다른 <b>모든</b>\n하수인을 <b>빙결</b> 상태로 만듭니다.\n<b>빙결</b> 상태인 하수인 하나당\n+1/+1을 얻습니다.",
+    "text": "[x]<b>전투의 함성:</b> 다른 <b>모든</b>\n하수인을 <b>빙결</b> 상태로 만듭니다.\n<b>빙결</b> 상태인 하수인 하나당\n+1/+1을 얻습니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -117,6 +117,28 @@
     "priorInitialSpecStatus": "partially_verified",
     "patchSources": {
       "2022-08-17": "https://hearthstone.blizzard.com/ko-kr/news/23840665/24-0-3"
-    }
+    },
+    "ipaTextObservations": [
+      {
+        "observedDate": "2021-12-08",
+        "build": "22.0.126807",
+        "file": "Hearthstone-22.0.126807--845471391.ipa",
+        "text": "[x]<b>전투의 함성:</b> 다른 <b>모든</b>\n하수인을 <b>빙결</b> 상태로 만듭니다.\n<b>빙결</b> 상태인 하수인 하나당\n+1/+1을 얻습니다."
+      },
+      {
+        "observedDate": "2022-08-31",
+        "build": "24.2.148211",
+        "file": "Hearthstone-24.2.148211--851265302.ipa",
+        "text": "[x]<b>전투의 함성:</b> 다른 <b>모든</b> 하수인을 <b>빙결</b> 상태로 만듭니다."
+      },
+      {
+        "observedDate": "2023-09-20",
+        "build": "27.4.185749",
+        "file": "Hearthstone-27.4.185749--859780249.ipa",
+        "text": "<b>전투의 함성:</b> 다른 <b>모든</b> 하수인을 <b>빙결</b> 상태로 만듭니다."
+      }
+    ],
+    "ipaTextObservationNotes": "observedDate는 보유 IPA에서 해당 원문을 확인한 빌드의 한국 적용일이며, 최초 변경일로 확정된 날짜가 아닙니다. 24.4~27.2 보유 IPA에는 한국어 DBF가 없습니다.",
+    "ipaTextSource": "IPA: Payload/hearthstone.app/Data/Raw/Data/dbf.unity3d, CARD.textInHand. cardId AV_255 / dbfId 67769."
   }
 }
