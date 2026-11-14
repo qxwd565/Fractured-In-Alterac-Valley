@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Build a Snowman",
-  "card": {
+  "2021-12-08": {
     "id": "AV_282",
     "dbfId": 70005,
     "name": "눈사람 만들기",
-    "text": "적을 <b>빙결</b> 상태로 만드는 3/3 눈사람을 소환합니다.\n\"눈싸움꾼 만들기\"를\n내 손으로 가져옵니다.",
+    "text": "적을 <b>빙결</b> 상태로 만드는 3/3 눈사람을 소환합니다.<br></br>\"눈싸움꾼 만들기\"를<br></br>내 손으로 가져옵니다.",
     "type": "SPELL",
     "cardClass": "MAGE",
     "classes": [],
@@ -65,35 +62,16 @@
     ],
     "nativeRawText": "적을 <b>빙결</b> 상태로 만드는 3/3 눈사람을 소환합니다.\n\"눈싸움꾼 만들기\"를\n내 손으로 가져옵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    70007,
-    70009,
-    70006,
-    70008,
-    70010
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Build a Snowman",
+    "root": true,
+    "relatedIds": [
+      70007,
+      70009,
+      70006,
+      70008,
+      70010
+    ],
+    "art": "art/AV_282.png"
   }
 }

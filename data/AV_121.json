@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Gnome Private",
-  "card": {
+  "2021-12-08": {
     "id": "AV_121",
     "dbfId": 70219,
     "name": "노움 병사",
-    "text": "<b>명예로운 일격:</b> 공격력을\n+2 얻습니다.",
+    "text": "<b>명예로운 일격:</b> 공격력을<br></br>+2 얻습니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -70,29 +67,10 @@
     ],
     "nativeRawText": "<b>명예로운 일격:</b> 공격력을\n+2 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Gnome Private",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_121.png"
   }
 }

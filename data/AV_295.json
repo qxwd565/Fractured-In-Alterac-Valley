@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Capture Coldtooth Mine",
-  "card": {
+  "2021-12-08": {
     "id": "AV_295",
     "dbfId": 70320,
     "name": "얼음이빨 광산 점령",
@@ -60,32 +57,13 @@
     ],
     "nativeRawText": "<b>선택 -</b> 비용이 가장 낮은 카드를 뽑습니다. 또는 비용이 가장 높은 카드를 뽑습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    70321,
-    70322
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Capture Coldtooth Mine",
+    "root": true,
+    "relatedIds": [
+      70321,
+      70322
+    ],
+    "art": "art/AV_295.png"
   }
 }

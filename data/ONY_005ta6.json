@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Holy Book",
-  "card": {
+  "2022-02-16": {
     "id": "ONY_005ta6",
     "dbfId": 75797,
     "name": "성서",
-    "text": "하수인을 <b>침묵</b>시키고\n처치합니다. 그 하수인을\n복사하여 10/10\n하수인으로 소환합니다.",
+    "text": "하수인을 <b>침묵</b>시키고<br></br>처치합니다. 그 하수인을<br></br>복사하여 10/10<br></br>하수인으로 소환합니다.",
     "type": "SPELL",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -59,29 +56,10 @@
     ],
     "nativeRawText": "[x]하수인을 <b>침묵</b>시키고\n처치합니다. 그 하수인을\n복사하여 10/10\n하수인으로 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2022-02-16",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Holy Book",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ONY_005ta6.png"
   }
 }

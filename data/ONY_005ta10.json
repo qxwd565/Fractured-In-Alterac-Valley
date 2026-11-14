@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Spyglass",
-  "card": {
+  "2022-02-16": {
     "id": "ONY_005ta10",
     "dbfId": 75801,
     "name": "망원경",
@@ -49,29 +46,10 @@
     ],
     "nativeRawText": "상대편 손에 있는 카드를 무작위로 복사하여 내 손으로 가져옵니다. 그 카드의 비용이 (3) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2022-02-16",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Spyglass",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ONY_005ta10.png"
   }
 }

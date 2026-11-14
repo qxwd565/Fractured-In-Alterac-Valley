@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Najak Hexxen",
-  "card": {
+  "2021-12-08": {
     "id": "AV_331",
     "dbfId": 70027,
     "name": "나자크 헥센",
-    "text": "<b>전투의 함성:</b> 적\n하수인을 가져옵니다.\n<b>죽음의 메아리:</b> 그\n하수인을 돌려줍니다.",
+    "text": "<b>전투의 함성:</b> 적<br></br>하수인을 가져옵니다.<br></br><b>죽음의 메아리:</b> 그<br></br>하수인을 돌려줍니다.",
     "type": "MINION",
     "cardClass": "PRIEST",
     "classes": [],
@@ -80,29 +77,10 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 적\n하수인을 가져옵니다.\n<b>죽음의 메아리:</b> 그\n하수인을 돌려줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Najak Hexxen",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_331.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Wildheart Guff",
-  "card": {
+  "2021-12-08": {
     "id": "AV_205",
     "dbfId": 66953,
     "name": "자연의정수 거프",
-    "text": "<b>전투의 함성:</b>\n내 최대 마나가 20이 됩니다. 빈 마나 수정을 얻습니다. 카드를 뽑습니다.",
+    "text": "<b>전투의 함성:</b><br></br>내 최대 마나가 20이 됩니다. 빈 마나 수정을 얻습니다. 카드를 뽑습니다.",
     "type": "HERO",
     "cardClass": "DRUID",
     "classes": [],
@@ -85,33 +82,14 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b>\n내 최대 마나가 20이 됩니다. 빈 마나 수정을 얻습니다. 카드를 뽑습니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    66954,
-    72840,
-    72839
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Wildheart Guff",
+    "root": true,
+    "relatedIds": [
+      66954,
+      72840,
+      72839
+    ],
+    "art": "art/AV_205.png"
   }
 }

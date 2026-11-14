@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Bearon Gla'shear",
-  "card": {
+  "2021-12-08": {
     "id": "AV_257",
     "dbfId": 67778,
     "name": "곰 남작 글라시어",
@@ -103,31 +100,12 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이번 게임에서 내가 시전한 냉기 주문 하나당 적을 <b>빙결</b> 상태로 만드는 3/4 정령을 소환합니다.@ <i>(@)</i>",
     "nativeTextBuilder": 7,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    72818
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Bearon Gla'shear",
+    "root": true,
+    "relatedIds": [
+      72818
+    ],
+    "art": "art/AV_257.png"
   }
 }

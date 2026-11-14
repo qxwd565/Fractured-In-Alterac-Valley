@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Arcane Burst",
-  "card": {
+  "2021-12-08": {
     "id": "AV_200p2",
     "dbfId": 67047,
     "name": "신비한 파열",
-    "text": "피해를 $2 줍니다.\n<b>명예로운 일격:</b> 피해량이 +2 증가합니다.",
+    "text": "피해를 $2 줍니다.<br></br><b>명예로운 일격:</b> 피해량이 +2 증가합니다.",
     "type": "HERO_POWER",
     "cardClass": "MAGE",
     "classes": [],
@@ -59,29 +56,10 @@
     ],
     "nativeRawText": "피해를 $@ 줍니다.\n<b>명예로운 일격:</b> 피해량이 +2 증가합니다.",
     "nativeTextBuilder": 7,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Arcane Burst",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/AV_200p2.png"
   }
 }

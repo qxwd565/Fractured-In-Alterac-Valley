@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Bloodseeker",
-  "card": {
+  "2021-12-08": {
     "id": "AV_244",
     "dbfId": 67574,
     "name": "피의 추적자",
@@ -75,29 +72,10 @@
     ],
     "nativeRawText": "<b>명예로운 일격:</b> +1/+1을 얻습니다.",
     "nativeTextBuilder": 26,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Bloodseeker",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_244.png"
   }
 }

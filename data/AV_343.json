@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Stonehearth Vindicator",
-  "card": {
+  "2021-12-08": {
     "id": "AV_343",
     "dbfId": 70265,
     "name": "돌난로 구원자",
@@ -75,40 +72,17 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 덱에서 비용이 (3) 이하인 주문을 뽑습니다. 이번 턴에 그 주문의 비용이 (0)이 됩니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [
-      {
-        "date": "2024-10-30",
-        "changes": {
-          "races": [
-            "DRAENEI"
-          ]
-        }
-      }
-    ],
-    "initialSpecStatus": "unverified",
     "patchSources": {
       "2024-10-30": "taxonomy introduction"
-    }
+    },
+    "englishName": "Stonehearth Vindicator",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_343.png"
   },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+  "2024-10-30": {
+    "races": [
+      "DRAENEI"
+    ]
   }
 }

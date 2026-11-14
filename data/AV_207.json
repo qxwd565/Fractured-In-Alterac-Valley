@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Xyrella, the Devout",
-  "card": {
+  "2021-12-08": {
     "id": "AV_207",
     "dbfId": 67048,
     "name": "기원의 자이렐라",
@@ -90,32 +87,13 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이번 게임에서 죽은 모든 아군 하수인의 <b>죽음의 메아리</b> 능력을 발동시킵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    67049,
-    67050
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Xyrella, the Devout",
+    "root": true,
+    "relatedIds": [
+      67049,
+      67050
+    ],
+    "art": "art/AV_207.png"
   }
 }

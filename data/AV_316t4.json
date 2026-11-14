@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Fel Rift",
-  "card": {
+  "2021-12-08": {
     "id": "AV_316t4",
     "dbfId": 69987,
     "name": "지옥 균열",
-    "text": "<b>뽑을 때 시전</b>\n3/3 공포 임프를 소환합니다.",
+    "text": "<b>뽑을 때 시전</b><br></br>3/3 공포 임프를 소환합니다.",
     "type": "SPELL",
     "cardClass": "WARLOCK",
     "classes": [],
@@ -54,29 +51,10 @@
     ],
     "nativeRawText": "<b>뽑을 때 시전</b>\n3/3 공포 임프를 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Fel Rift",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/AV_316t4.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Bru'kan of the Elements",
-  "card": {
+  "2021-12-08": {
     "id": "AV_258",
     "dbfId": 67779,
     "name": "정령의 브루칸",
@@ -85,41 +82,22 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 원소 둘의 힘을 불러냅니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    82021,
-    67815,
-    67816,
-    67817,
-    67818,
-    70123,
-    67802,
-    70519,
-    70520,
-    70521,
-    70522
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Bru'kan of the Elements",
+    "root": true,
+    "relatedIds": [
+      82021,
+      67815,
+      67816,
+      67817,
+      67818,
+      70123,
+      67802,
+      70519,
+      70520,
+      70521,
+      70522
+    ],
+    "art": "art/AV_258.png"
   }
 }

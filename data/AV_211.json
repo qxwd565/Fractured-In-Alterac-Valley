@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Dire Frostwolf",
-  "card": {
+  "2021-12-08": {
     "id": "AV_211",
     "dbfId": 67209,
     "name": "광포한 서리늑대",
-    "text": "<b>은신</b>, <b>죽음의 메아리:</b>\n<b>은신</b> 능력이 있는 2/2\n늑대를 소환합니다.",
+    "text": "<b>은신</b>, <b>죽음의 메아리:</b><br></br><b>은신</b> 능력이 있는 2/2<br></br>늑대를 소환합니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -87,31 +84,12 @@
     ],
     "nativeRawText": "[x]<b>은신</b>, <b>죽음의 메아리:</b>\n<b>은신</b> 능력이 있는 2/2\n늑대를 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    72718
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Dire Frostwolf",
+    "root": true,
+    "relatedIds": [
+      72718
+    ],
+    "art": "art/AV_211.png"
   }
 }

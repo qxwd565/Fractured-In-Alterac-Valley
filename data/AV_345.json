@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Saidan the Scarlet",
-  "card": {
+  "2021-12-08": {
     "id": "AV_345",
     "dbfId": 72810,
     "name": "붉은십자군 사이단",
-    "text": "<b>속공</b>, 이 하수인은\n능력치를 2배로 얻습니다.\n<i>(어디에 있든)</i>",
+    "text": "<b>속공</b>, 이 하수인은<br></br>능력치를 2배로 얻습니다.<br></br><i>(어디에 있든)</i>",
     "type": "MINION",
     "cardClass": "PALADIN",
     "classes": [],
@@ -85,29 +82,10 @@
     ],
     "nativeRawText": "[x]<b>속공</b>, 이 하수인은\n능력치를 2배로 얻습니다.\n<i>(어디에 있든)</i>",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Saidan the Scarlet",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_345.png"
   }
 }

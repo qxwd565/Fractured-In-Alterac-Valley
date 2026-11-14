@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Pathmaker",
-  "card": {
+  "2021-12-08": {
     "id": "AV_210",
     "dbfId": 67207,
     "name": "길잡이",
@@ -75,29 +72,10 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내가 선택하지 않은 내 마지막 <b>선택</b> 주문의 효과를 시전합니다.@<b>전투의 함성:</b> {0}",
     "nativeTextBuilder": 29,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Pathmaker",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_210.png"
   }
 }

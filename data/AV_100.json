@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Drek'Thar",
-  "card": {
+  "2021-11-17": {
     "id": "AV_100",
     "dbfId": 66875,
     "name": "드렉타르",
@@ -80,29 +77,10 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 이 하수인이 내 덱에 있는 모든 하수인보다 비용이 높으면, 그 하수인들 중 하나를 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-11-17",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Drek'Thar",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_100.png"
   }
 }

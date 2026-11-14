@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ice Trap",
-  "card": {
+  "2021-12-08": {
     "id": "AV_226",
     "dbfId": 67243,
     "name": "얼음 덫",
-    "text": "<b>비밀:</b> 상대편이 주문을\n시전하면, 그 주문을\n주인의 손으로 돌려보내고\n비용을 (1) 증가시킵니다.",
+    "text": "<b>비밀:</b> 상대편이 주문을<br></br>시전하면, 그 주문을<br></br>주인의 손으로 돌려보내고<br></br>비용을 (1) 증가시킵니다.",
     "type": "SPELL",
     "cardClass": "HUNTER",
     "classes": [],
@@ -65,29 +62,10 @@
     ],
     "nativeRawText": "[x]<b>비밀:</b> 상대편이 주문을\n시전하면, 그 주문을\n주인의 손으로 돌려보내고\n비용을 (1) 증가시킵니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Ice Trap",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_226.png"
   }
 }

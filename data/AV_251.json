@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Cheaty Snobold",
-  "card": {
+  "2021-12-08": {
     "id": "AV_251",
     "dbfId": 67761,
     "name": "반칙하는 스노볼트",
-    "text": "적이 <b>빙결</b> 상태가\n된 후에, 그 적에게\n피해를 3 줍니다.",
+    "text": "적이 <b>빙결</b> 상태가<br></br>된 후에, 그 적에게<br></br>피해를 3 줍니다.",
     "type": "MINION",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -75,29 +72,10 @@
     ],
     "nativeRawText": "적이 <b>빙결</b> 상태가\n된 후에, 그 적에게\n피해를 3 줍니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Cheaty Snobold",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_251.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Ivus, the Forest Lord",
-  "card": {
+  "2021-12-08": {
     "id": "AV_142t",
     "dbfId": 70257,
     "name": "숲군주 이부스",
@@ -90,29 +87,10 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 남은 마나를 모두 소모합니다. 소모한 마나만큼 무작위로 +2/+2, <b>속공</b>, <b>천상의_보호막</b>, 또는 <b>도발</b>을 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Ivus, the Forest Lord",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_142t.png"
   }
 }

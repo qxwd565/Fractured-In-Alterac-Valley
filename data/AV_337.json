@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Mountain Bear",
-  "card": {
+  "2021-12-08": {
     "id": "AV_337",
     "dbfId": 70245,
     "name": "산 속의 곰",
-    "text": "<b>도발</b>, <b>죽음의 메아리</b>:\n<b>도발</b> 능력이 있는\n2/4 아기 곰을 둘 소환합니다.",
+    "text": "<b>도발</b>, <b>죽음의 메아리</b>:<br></br><b>도발</b> 능력이 있는<br></br>2/4 아기 곰을 둘 소환합니다.",
     "type": "MINION",
     "cardClass": "HUNTER",
     "classes": [],
@@ -92,31 +89,12 @@
     ],
     "nativeRawText": "<b>도발</b>, <b>죽음의 메아리</b>:&\n<b>도발</b> 능력이 있는\n2/4 아기 곰을 둘 소환합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [
-    71465
-  ],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Mountain Bear",
+    "root": true,
+    "relatedIds": [
+      71465
+    ],
+    "art": "art/AV_337.png"
   }
 }

@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Wing Commander Ichman",
-  "card": {
+  "2021-12-08": {
     "id": "AV_336",
     "dbfId": 70106,
     "name": "편대사령관 이크만",
@@ -80,29 +77,10 @@
     ],
     "nativeRawText": "<b>전투의 함성:</b> 내 덱에서 야수를 소환하고 <b>속공</b>을 부여합니다. 그 야수가 이번 턴에 하수인을 처치하면, 반복합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Wing Commander Ichman",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_336.png"
   }
 }

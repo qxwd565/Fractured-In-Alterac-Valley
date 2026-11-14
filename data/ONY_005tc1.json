@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Embers of Ragnaros",
-  "card": {
+  "2022-02-16": {
     "id": "ONY_005tc1",
     "dbfId": 75831,
     "name": "라그나로스의 잿불",
@@ -59,29 +56,10 @@
     ],
     "nativeRawText": "피해를 $8씩 주는 화염구 세 개를 무작위 적들에게 발사합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2022-02-16",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Embers of Ragnaros",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ONY_005tc1.png"
   }
 }

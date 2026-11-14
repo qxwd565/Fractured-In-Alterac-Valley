@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Clockwork Assistant",
-  "card": {
+  "2022-02-16": {
     "id": "ONY_005ta11",
     "dbfId": 75802,
     "name": "태엽돌이 조수",
@@ -66,29 +63,10 @@
     ],
     "nativeRawText": "이번 게임에서 내가 시전한 주문 하나당 +1/+1을 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2022-02-16",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Clockwork Assistant",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/ONY_005ta11.png"
   }
 }

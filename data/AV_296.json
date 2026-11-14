@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Pride Seeker",
-  "card": {
+  "2021-12-08": {
     "id": "AV_296",
     "dbfId": 70333,
     "name": "무리 추적자",
-    "text": "<b>전투의 함성:</b> 다음에 내가\n내는 <b>선택</b> 카드의 비용이\n(2) 감소합니다.",
+    "text": "<b>전투의 함성:</b> 다음에 내가<br></br>내는 <b>선택</b> 카드의 비용이<br></br>(2) 감소합니다.",
     "type": "MINION",
     "cardClass": "DRUID",
     "classes": [],
@@ -75,29 +72,10 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 다음에 내가\n내는 <b>선택</b> 카드의 비용이\n(2) 감소합니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Pride Seeker",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_296.png"
   }
 }

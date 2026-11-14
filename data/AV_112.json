@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Snowblind Harpy",
-  "card": {
+  "2021-12-08": {
     "id": "AV_112",
     "dbfId": 67352,
     "name": "서리바람 하피",
-    "text": "<b>전투의 함성:</b> 내 손에\n냉기 주문이 있으면,\n방어도를 +5 얻습니다.",
+    "text": "<b>전투의 함성:</b> 내 손에<br></br>냉기 주문이 있으면,<br></br>방어도를 +5 얻습니다.",
     "type": "MINION",
     "cardClass": "NEUTRAL",
     "classes": [],
@@ -70,29 +67,10 @@
     ],
     "nativeRawText": "[x]<b>전투의 함성:</b> 내 손에\n냉기 주문이 있으면,\n방어도를 +5 얻습니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": true,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Snowblind Harpy",
+    "root": true,
+    "relatedIds": [],
+    "art": "art/AV_112.png"
   }
 }

@@ -1,12 +1,9 @@
 {
-  "schemaVersion": 1,
-  "mode": "constructed",
-  "englishName": "Water Invocation",
-  "card": {
+  "2021-12-08": {
     "id": "AV_258p2",
     "dbfId": 70520,
     "name": "물 기원",
-    "text": "모든 아군 캐릭터의\n생명력을 #6 회복시킵니다.\n매 턴마다 바뀝니다.",
+    "text": "모든 아군 캐릭터의<br></br>생명력을 #6 회복시킵니다.<br></br>매 턴마다 바뀝니다.",
     "type": "HERO_POWER",
     "cardClass": "SHAMAN",
     "classes": [],
@@ -44,29 +41,10 @@
     ],
     "nativeRawText": "[x]모든 아군 캐릭터의\n생명력을 #6 회복시킵니다.\n매 턴마다 바뀝니다.",
     "nativeTextBuilder": 0,
-    "releasedAt": "2021-12-08",
-    "releaseStatus": "verified",
-    "patches": [],
-    "initialSpecStatus": "unverified",
-    "patchSources": {}
-  },
-  "root": false,
-  "relatedIds": [],
-  "expansion": {
-    "id": 1626,
-    "slug": "fractured-in-alterac-valley",
-    "name": "알터랙 계곡",
-    "type": "expansion",
-    "englishName": "Fractured In Alterac Valley"
-  },
-  "setOrder": 18,
-  "formats": [
-    "wild"
-  ],
-  "provenance": {
-    "source": "Installed Hearthstone dbf.unity3d",
-    "gameVersion": "6000.3.11.3145967",
-    "dbfSha256": "40d9a232262d33eb670848ce3f87e58f5b4fd084632d9876216478a8b21e9456",
-    "locale": "koKR"
+    "patchSources": {},
+    "englishName": "Water Invocation",
+    "root": false,
+    "relatedIds": [],
+    "art": "art/AV_258p2.png"
   }
 }
